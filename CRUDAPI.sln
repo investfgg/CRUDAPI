@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDAPI", "CRUDAPI\CRUDAPI.csproj", "{18FBE094-1F90-4158-B2D2-1E1279F6D9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAPI.Tests", "CRUDAPI.Tests\CRUDAPI.Tests.csproj", "{E964C255-B4EF-45DD-8347-AB2EE62336CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E150278B-B209-487C-BBE4-9850FC5ED8DB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FBE094-1F90-4158-B2D2-1E1279F6D9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FBE094-1F90-4158-B2D2-1E1279F6D9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FBE094-1F90-4158-B2D2-1E1279F6D9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FBE094-1F90-4158-B2D2-1E1279F6D9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E964C255-B4EF-45DD-8347-AB2EE62336CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E964C255-B4EF-45DD-8347-AB2EE62336CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E964C255-B4EF-45DD-8347-AB2EE62336CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E964C255-B4EF-45DD-8347-AB2EE62336CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B86EE8-B9D9-427F-98C9-57ADFCF81132}
+	EndGlobalSection
+EndGlobal
